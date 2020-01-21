@@ -1,5 +1,5 @@
 {
-  "name": "ase-parser",
+  "name": "@suchipi/ase-parser",
   "version": "0.0.10",
   "description": "Parser for Aseprite files",
   "main": "Aseprite.js",
